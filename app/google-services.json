@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766671734311",
+    "project_id": "app-compose-94ca4",
+    "storage_bucket": "app-compose-94ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766671734311:android:fd6a1a27bfd5db5fb83002",
+        "android_client_info": {
+          "package_name": "com.nativemobilebits.loginflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766671734311-vd03mi4l1ru54hlid37fqb19cfcngkml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMTwjMi6D8W1bHBFg56_d17NtzdpeLXvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766671734311-vd03mi4l1ru54hlid37fqb19cfcngkml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
